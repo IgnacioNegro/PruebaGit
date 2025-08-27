@@ -7,9 +7,10 @@ No busca transmitir información académica rigurosa, sino simplemente servir co
 ---
 
 ## El rol del café en la vida de los programadores
-Para muchos programadores, el café es mucho más que una simple bebida: es un ritual, una excusa para tomar un descanso y, sobre todo, una fuente de energía para enfrentar largas horas frente a la computadora.  
 
-La cafeína estimula el sistema nervioso y ayuda a mantener la concentración, lo que la convierte en una aliada ideal en momentos de trabajo intenso. Sin embargo, también es importante no abusar de su consumo, ya que un exceso puede producir efectos contrarios, como ansiedad o cansancio acumulado.  
+El Cafe es clave en la vida diaria, asi lo dijo Sócrates.
+
+Pero a pesar de los cambios, el amargo siempre es mas rico.
 
 Más allá de sus efectos químicos, el café también cumple un rol social: compartir una taza con colegas suele dar lugar a conversaciones informales que, en muchos casos, terminan resolviendo problemas de programación más rápido que cualquier manual.  
 
@@ -27,4 +28,4 @@ Lo esencial no es la bebida en sí, sino lo que representa: un momento para reca
 ## Firma ✍️
 Creado por Ignacio Negro  
 Para Fines Educativos
-
+git
