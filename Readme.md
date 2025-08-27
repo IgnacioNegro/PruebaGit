@@ -1,4 +1,4 @@
-﻿# La importancia del café en la programación ☕
+﻿# La importancia del café en la programación cotidiana☕
 
 ## Introducción
 Este documento fue creado únicamente con fines prácticos para un ejercicio  de Git y GitHub.
@@ -26,4 +26,5 @@ Lo esencial no es la bebida en sí, sino lo que representa: un momento para reca
 
 ## Firma ✍️
 Creado por Ignacio Negro  
+Para Fines Educativos
 
